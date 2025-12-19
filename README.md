@@ -1,4 +1,5 @@
 # workflow_vd17_IIIF
+*Autor:* Maximilian Görmar (goermar@hab.de)
 
 Using bibliographic metadata in your research process can be messy and complicated. But it can be of great use to obtain data on a large scale. One can, for example, directly analyse the metadata quantitatively or one can use it to compile a text corpus for further analysis. The workflow and XSLT-script provided here can be used for the later use case. Its aim is to facilitate the gathering of research data from already existing ressources, especially for historical analysis. By using Linked Open Data and open standards it tries to contribute to more sustainable research practices in the digital humanities.
 
