@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Abfrage: https://sru.k10plus.de/vd17?version=2.0&operation=searchRetrieve&query=pica.gat=messrelation+and+pica.jhr=1618-1629+and+pica.bib=40004&maximumRecords=50&startRecord=1&recordSchema=dc-->
+<zs:searchRetrieveResponse xmlns:zs="http://docs.oasis-open.org/ns/search-ws/sruResponse"><zs:numberOfRecords>31</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio: Jacobi Franci Historische Beschreibung aller denckwürdigen Geschichten/ so sich hin und wider in Europa/ in hoch und nider Teutschland/ auch in Franckreich/ Engelland und Schottland/ Hispanien/ Indien/ Hungarn/ Polen/ Preussen/ Sachsen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c.  vor und hierzwischen nechstverschienene Franckfurter Herbstmesß 1628. biß auff Fastenmesß dieses 1629. Jahrs/ verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Herbstmessz Herbstmesse Fastenmessz Fastenmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Sigmund Latomus Erben</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1629</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1629</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">95 S., [7] gef. Bl Tbl. r&amp;s, 1 Portr. (Kupferst.), 4 Ill. (Kupferst.), 1 Kt. (Kupferst.), Ill. (Holzschn.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Alles auß uberschickten glaubwürdigen Schrifften unnd eygener Erfahrung/ beneben etlichen Kupfferstücken. Durch Sigismundi Latomi, alias Meurers, Seel. Erben/ continuirt und verlegt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der SLUB Dresden: Hist.Germ.C.536,36</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat. - Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - M4, [7]. - Fehlerhafte Paginierung: S. 19 [i.e. 29], 52 [i.e. 51]. - 1 gef. Bl. ist Text zur Ill. "Wundervogel" S. 39</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 485</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503372-1</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">14:003707M</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)001427202</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Newer Unpartheyischer Teutscher Mercurius: Oder Glaubwürdige Erzehlung aller Fürnemen un[d] gedenckwürdigen Historien/ so sich hin und wider in Europa/ in Hoch- und NiderTeutschlandt/ auch Franckreich/ Engelland/ Italien/ Hispanien/ Hungarn/ Böheimb/ Polen/ Siebenbürgen/ Wallachey/ Preussen/ Schweden Türckey/ [et]c. von der Herbst-verflossenen 1628. biß auff diese gegenwertige Fastmeß 1629. Jahrs/ zugetragen und verlauffen haben: Darin sonderlich was sich mit Belägerung der Stätt Roschel in Franckreich/ Casal in Italien/ und dann in der Insel Cuba begeben/ außführlich erzehlt wird</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Neuer unparteiischer deutscher Erzählung vornehmen gedenkwürdigen Niederdeutschland Frankreich England Spanien Ungarn Böhmen Walachei Türkei Fastenmesse</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Ens, Gaspar , 1570-1650</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Keller, G. (BeiträgerIn k)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Brachel, Peter von , -1650</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1629</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1629</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">98 [i.e. 96 S.], [2] gef. Bl Tbl. r&amp;s, 1 Ill. (Kupferst.), 1 Kt. (Kupferst.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Alles mit mehrerm fleiß dan[n] zuvor jemal zusamen getragen und verfast/ Durch Caspar Ens der Historien Liebhabern zu gefallen in Truck geben. Neben beygelegten Kupfferstücken</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der SBB-PK Berlin: Qe 840 = R</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 484</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://resolver.staatsbibliothek-berlin.de/SBB00018ADB00000000</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1:086657C</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)000897248</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>2</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Continuatio XXVII. Der Zehenjährigen Historischen Relation/ Das ist: Warhafftige Beschreibung/ Aller gedenckwürdigen Historien/ Handlungen/ und Geschichten/ so seydhero des nechst verchienenen/ Leipzigischen MichaelsMarckt/ des 1627. biß auff jetzige NewjahrsMarckt/ des 1628. Jahres/ hin und wider in der Welt/ sonderlich aber im H. Römischen Reich sich zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">zehnjährigen wahrhaftige gedenkwürdigen denkwürdigen seithero seither nächstverschienenen nächstverflossenen Michaelsmarkt  Michaelismarkts Neujahrsmesse</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Wintermonat, Gregor</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Grosse, Gottfried , 1591-1637</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lamberg, Abraham , 1557-1629</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1628</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1628</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1628</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">[4] Bl., 100 S 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dem Liebhaber der Historien zu gefallen/ mit Fleiß auß den einkommenden Zeitungen/ und andern Particularschrifften zusammen verfast/ und in offenem Druck gegeben durch Gregorium Wintermonat</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der SLUB Dresden: Eph.hist.276-2,misc.8</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 472</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503608-2</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">14:069999S</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)001554352</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>3</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio, Jacobi Franci Historische Beschreibung aller denckwürdigen Geschichten/ so sich hin und wider in Europa/ in hoch und nider Teutschland/ auch in Franckreich/ Engelland und Schottland/ Hispanien/ Indien/ Hungarn/ Polen/ Preussen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. vor und hierzwischen nechstverschiener Franckfurter Fastenmesß/ biß auf Herbstmesß dieses 1628. Jahrs verlauffen und zugetragen: Auß uberschickten glaubwürdigen Schrifften unnd eygener Erfahrung/ beneben etlichen Kupfferstücken/ Durch Sigismundi Latomi, alias Meurers, Seel. Erben/ continuirt und verlegt</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Fastenmessz Fastenmesse Herbstmessz Herbstmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Sigmund Latomus Erben</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1628</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1628</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">95 S., [5] gef. Bl Tbl. r&amp;s, 3 Ill. (Kupferst.), 2 Kt. (Kupferst.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der FB Gotha: Hist 8° 155/3 (6) R</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat. - Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - M4, [5]. - Fehlerhafte Paginierung: S. 76 - 77 [i.e. 78 - 79]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 479</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503371-6</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">39:124500L</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)00029263X</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>4</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Newer Unpartheyischer Teutscher Mercurius: Das ist Warhafftige Beschreibunge aller fürnemen und gedenckwürdigen Historien/ so sich hin und wider in Europa/ in Hoch- un[d] Nider Teutschland/ auch Franckreich/ Engelland/ Italien/ Hispanien/ Hungarn/ Böheimb/ Polen/ Sibenbürgen/ Wallachey/ Preussen/ Schweden/ Türckey/ [et]c. von der Herbstmeß verlauffnen 1627. biß auff diese gegenwertige Fastenmeß noch lauffendes Jahrs 1628. zugetragen und begeben haben: Darin sonderlichder Keyserischen Armee verrichtung in Holstein/[et]c. Ingleichem was sich in Niderlandt/ so wol in Fried- als Kriegshandlungen verlauffen/ vermeldet ist</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Neuer unparteiischer deutscher wahrhaftige Beschreibung vornehmen gedenkwürdigen Niederdeutschland Frankreich England Spanien Ungarn Böhmen Siebenbürgen Walachei Türkei Herbstmesse Fastenmesse</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Ens, Gaspar , 1570-1650</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Brachel, Peter von , -1650</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1628</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1628</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">96 S., [2] gef. Bl Tbl. r&amp;s, 2 Kt. (Kupferst.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Alles mit mehrerm fleiß dann zuvor jemaln zusam[m]en getragen und verfast Durch Caspar Casparsen und der Historien Liebhabern zu gefallen in Truck geben. Mit etlichen schönen Kupfferstücken gezieret</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der FB Gotha: Hist 8° 155/3 (5) R</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Caspar Casparsen ist Pseud. von Gaspar Ens</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 473</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10502871-6</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">39:124484N</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)000292591</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>5</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio, Jacobi Franci Historische Beschreibung aller denckwürdigen Historien/ so sich hin und wider in Europa/ in hoch und nider Teutschland/ auch in Franckreich/ Engelland und Schottland/ Hispanien/ Indien/ Hungarn/ Polen/ Preussen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. vor und hierzwischen nechstverschiener Franckfurter Herbstmesß 1627. biß auff Fastenmesß/ dieses 1628. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Herbstmessz Herbstmesse Fastenmessz Fastenmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Sigmund Latomus Erben</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1628</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1628</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">94 S., [1] Bl., [4] gef. Bl Tbl. r&amp;s, 3 Ill. (Kupferst.), 1 Kt. (Kupferst.), Ill. (Holzschn.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften unnd eygener Erfahrung/ beneben etlichen Kupfferstücken/ Durch Sigismundi Latomi, alias Meurer, Franci Wittib/ und Erben continuirt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der FB Gotha: Hist 8° 155/3 (1) R</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat. - Sigismundus Latomus gebraucht Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - M4, [4]. - Fehlerhafte Paginierung: S. 18 [i.e. 16], 28 [i.e. 27]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 475</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503370-0</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">39:124466Q</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)000292516</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>6</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio, Jacobi Franci Historische Beschreibung aller gedenckwürdigen Historien/ so sich hin und wider in Europa/ in Hoch und Nider Teutschland/ auch in Franckreich/ Schott: und Engelland/ Hispanien/ Indien/ Hungarn/ Polen ... vor und hierzwischen nechstverschiener Franckfurter Herbstmeß biß auff Fastenmeß dieses 1627. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">gedenkwürdigen Niederdeutschland Frankreich England Herbstmesse Fastenmesse</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lundorp, Michael Caspar , 1580-1629</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Gottfriedt, Hans</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1627</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1627</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">und</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">96 S., [1] gef. Bl Tbl. r&amp;s, 1 Kt 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften und eygener Erfahrung/ beneben etlich Kupfferstücken. Durch Casparum Lundorpium</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der FB Gotha: Hist 8° 155/2 (15) R</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Vorlageform des Erscheinungsvermerks: jetzo aber durch Johann-Godofredum S. W. verlegt und continuirt. Gedruckt zu Franckfurt am Mayn ...</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00088527-7</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">39:124526U</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)000562629</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>7</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Historicae Relationis Continuatio: Oder Warhafftige Beschreibunge aller Fürnehmen und Gedenckwürdigen Historien/ so sich hin und wieder in Europa/ in Hoch- und NiederTeutschlandt/ auch Franckreich/ Engellandt/ Italien/ Hispanien/ Hungarn/ Böheimb/ Polen/ Siebenbürgen/ Wallachey/ Preussen/ Schweden/ Türckey [et]c. vom Monat Martio an 1627. biß auff den October gemeltes Jahrs zugetragen unnd verlauffen haben: Darin sonderlich was in NiederSachsen zwischen dem Tylli unnd König in Dennemarck/ so wol auch mit den Friedländischen und Weymarischen in Schlesien sich begeben und zugetragen/ beschrieben wirdt</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">wahrhaftige Beschreibung Niederdeutschland Frankreich England Böhmen Tilly</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Schorch, Johann Ulrich</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Tilly, Jean T'Serclaes de , 1559-1632</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Botzer, Quirin</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1627</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1627</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">80 S., [2] gef. Bl. Tbl. r&amp;s, 2 Kt 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Alles mit besonderem fleiß zusammen getragen und verfasset Durch M. Joan. Udalricum Schorchium ... Mit beygefügten Kupfferstücken</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus Exemplar Hist 8° 155/2 (16) R (UFB Erfurt/Gotha)</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00088881-2</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">39:124541U</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)000562491</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>8</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio, Jacobi Franci Historische Beschreibung aller denckwürdigen Historien/ so sich hin und wider in Europa/ in hoch und nider Teutschland/ auch in Franckreich/ Engelland und Schottland/ Hispanien/ Indien/ Hungarn/ Polen/ Preussen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. vor und hierzwischen nechstverschiener Franckfurter Herbstmesß/ biß auff Fastenmesß dieses 1627. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Herbstmessz Herbstmesse Fastenmessz Fastenmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1627</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1627</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">95 S., [3] gef. Bl Tbl. r&amp;s, 2 Ill. (Kupferst.), 1 Kt 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften unnd eygener Erfahrung/ beneben etlichen Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer, Francum, continuirt unnd verlegt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der FB Gotha: Hist 8° 155/2 (8) R</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat. - Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - M4, [3]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 463</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503369-8</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">39:124498Z</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)000292621</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>9</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio: Jacobi Franci Historische Beschreibung aller denckwürdigen Historien/ so sich hin und wider in Europa/ in hoch und nider Teutschland/ auch in Franckreich/ Schott- unnd Engeland/ Hispanien/ Indien/ Hungarn/ Polen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. vor und hierzwischen nechstverschiener Franckfurter Herbstmesß/ biß auff Fastenmesß dieses 1626. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Herbstmessz Herbstmesse Fastenmessz Fastenmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1626</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1626</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">94 [i.e. 95] S., [3] gef. Bl Tbl. r&amp;s, 2 Kt. (Kupferst.), 1 Ill. (Kupferst.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften unnd eygener Erfahrung/ beneben etlich Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer, Francum, verlegt unnd continuirt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der UB Erfurt: 05 - Hu. 8° 01064 (12)</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat. - Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - M4, [3]. - Fehlerhafte Paginierung: S. 48 - 94 [i.e. 49 - 95]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 451</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503368-8</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">547:651772Q</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)005309298</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>10</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio, Jacobi Franci Historische Beschreibung aller gedenckwürdigen Historien/ so sich hin und wider in Europa/ in Hoch und Nider Teutschland/ auch in Franckreich/ Schott: und Engelland/ Hispanien/ Indien/ Hungarn/ Polen/ Siebenbürgen/ Wallachey/ Moldau/ Türckey/ [et]c. vor und hierzwischen nechstverschiener Franckfurter Fastenmeß biß auff Herbstmeß dieses 1626. Jahrs verlauffen und zu getragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">gedenkwürdiger Nieder Deutschland Frankreich England Ungarn Walachei Türkei nächstverschiener Frankfurter verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1626</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1626</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">32 [i.e.] 88 S. ? Tbl. r&amp;s 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften unnd eygener Erfahrung/ beneben etlich Kupfferstücken. Durch Sigismundum Latomum, alias Meurer, Francum, continuirt und verlegt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Wird fälschl. auch Conrad Memmius zugeschrieben, der ebenfalls das Pseud. Jacobus Francus verwendete; lt. BLC und "Lindemann, Margot: Deutsche Presse bis 1815, Berlin 1969" ist jedoch Conrad Lautenbach der tatsächl. Verf. - Die Verfasserangabe "durch Sigismundum Latomum, alias Meurer, Francum" meint, daß Latomus die Tradition des Theodor Meurer und des Jacobus Francus fortsetzen wollte; sie ist nicht als andere Namensform aufzufassen</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der BSB München: Res 4 J.publ.e. 63</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">In &lt;12&gt;: Keine Kupferst. vorh</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00088526-2</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">12:194635W</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)000562432</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>11</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio, Jacobi Franci Historische Beschreibung aller denckwürdigen Historien/ so sich in und wider in Europa/ in hoch und nider Teutschland/ auch in Franckreich/ Schott- unnd Engelland/ Hispanien/ Indien/ Hungarn/ Polen/ Preussen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. vor und hierzwischen nechstverschiener Franckfurter Fastenmesß/ biß auff Herbstmesß dieses 1626. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Fastenmessz Fastenmesse Herbstmessz Herbstmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1626</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1626</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">103 [i.e. 93] S., [3] gef. Bl Tbl. r&amp;s, 2 Ill. (Kupferst.), 1 Kt. (Kupferst.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften unnd eygener Erfahrung/ beneben etlichen Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer, Francum, continuirt unnd verlegt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der FB Gotha: Hist 8° 155/2 (7) R</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat. - Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A-L4, M3, [3]. - Fehlerhafte Paginierung: S. 88 - 103 [i.e. 79 - 93]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 456</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10623598-4</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">39:124464Z</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)000292508</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>12</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio: Jacobi Franci Historische Beschreibung aller denckwürdigen Historien/ so sich hin und wider in Europa/ in hoch und nider Teutschland/ auch in Franckreich/ Schott- unnd Engeland/ Hispanien/ Indien/ Hungarn/ Polen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. vor und hierzwischen nechstverschiener Franckfurter Herbstmessz biß auff Fastenmessz dieses 1625. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Herbstmessz Herbstmesse Fastenmessz Fastenmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1625</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1625</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">99 S., [3] gef. Bl Tbl. r&amp;s, 3 Kt. (Kupferst.), Ill. (Holzschn.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften und eygener Erfahrung/ beneben etlich Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer, Francum, verlegt unnd continuirt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der BSB München: 4 Eph.pol. 26-1624/27</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat. - Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - M4, N2, [3]. - Fehlerhafte Paginierung: S. 41 - 42 [i.e. 42 - 43], 45 - 46 [i.e. 46 - 47]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 442</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503367-2</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">12:666015L</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)005518997</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>13</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio: Jacobi Franci Historische Beschreibung aller denckwürdigen Historien/ so sich hin und wider in Europa/ in hoch und nider Teutschland/ auch in Franckreich/ Schott- unnd Engeland/ Hispanien/ Indien/ Hungarn/ Polen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. vor und hierzwischen nechstverschiener Franckfurter Fastenmesß/ biß auff Herbstmesß dieses 1625. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Fastenmessz Fastenmesse Herbstmessz Herbstmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Custodis, David (BeiträgerIn k)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1625</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1625</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">lat</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">94 S., [3] gef. Bl Tbl. r&amp;s, 1 Ill. (Kupferst.), 2 Kt. (Kupferst.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften unnd eygener Erfahrung/ beneben etlich Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer, Francum, verlegt unnd continuirt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der HAB Wolfenbüttel: Ge 482 (38)</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat. - Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - L4, M3, [3]. - Fehlerhafte Paginierung: S. 25 [i.e. 24]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 447</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10623597-9</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">23:301671D</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)000167576</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>14</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio: Warhafftige Beschreibung aller fürnemi[n] unnd gedenckwürdigen Historien/ so sich hin unnd wider in Europa/ in hoch unnd nider Teutschland/ auch in Franckreich/ Schott- unnd Engeland/ Hispanien/ Hungarn/ Polen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. hierzwischen nechstverschiener Franckfurter Herbstmesß biß auff Fastenmesß dieses 1624. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">wahrhaftige vornehmen gedenkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Herbstmessz Herbstmesse Fastenmessz Fastenmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1624</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1624</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">92 S., [1] Bl Tbl. r&amp;s, Ill. (Holzschn.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften und eygener Erfahrung/ beneben etlich Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer, Francum, verlegt und continuirt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Nicht ident. mit VD17 3:655536A (Kollation abweichend)</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der BSB München: 4 Eph.pol. 26-1623/24</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - L4, M3</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 433</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503366-7</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">12:675476C</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)005657598</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>15</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio: Jacobi Franci Historische Beschreibung aller denckwürdigen Historien/ so sich hin und wider in Europa/ hoch und nider Teutschland/ auch in Franckreich/ Schott- unnd Engeland/ Hispanien/ Hungarn/ Polen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. vor und hierzwischen nechstverschiener Franckfurter Fastenmesß biß auff Herbstmesß dieses 1624. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen wieder Hoch- Hochdeutschland Oberdeutschland Niederdeutschland Deutschland Frankreich Schottland England Spanien Ungarn Walachei Moldau Türkei nächstverschienener Frankfurter Fastenmeß Fastenmesse bis auf Herbstmeß Herbstmesse verlaufen aus überschickten Schriften eigener etlichen Kupferstücken verlegt kontinuiert</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1624</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1624</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">103 S., [2] gef. Bl. Tbl. r&amp;s., 1 Ill. (Kupferst.), 1 Kt. (Kupferst.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften und eygener Erfahrung/ beneben etlich Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer, Francum, verlegt unnd continuirt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der UB Erfurt: 5 - Hu. 8° 01064 (06)</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt. - Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - N4, [2]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender, Nr. 438</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10916897-0</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">547:651732P</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)005308763</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>16</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio: Jacobi Franci Historische Beschreibung aller denckwürdigen Historien/ so sich hin und wider in Europa/ in hoch unnd nider Teutschland/ auch in Franckreich/ Schott- unnd Engeland/ Hispanien/ Hungarn/ Polen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. hierzwischen nechstverschiener Franckfurter Herbstmesß biß auff Fastenmesß dieses 1623. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Herbstmessz Herbstmesse Fastenmessz Fastenmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Keller, G. (BeiträgerIn k)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1623</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1623</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">115 S., [3] gef. Bl Tbl. r&amp;s, 1 Ill. (Kupferst.), 2 Kt. (Kupferst.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften und eygener Erfahrung/ beneben etlich Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer, Francum, verlegt unnd continuirt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der ULB Halle: Nd 342 (4) (10)</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist dabei Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat. - Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - O4, P2, [3]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 422</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503364-6</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://vd17.bibliothek.uni-halle.de/pict/2004/3:655534L/</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">3:655534L</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">http://vd17.bibliothek.uni-halle.de/pict/2004/3:655534L/</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)005370507</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>17</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Mercurius Austrio-Bohemo-Germanicus, hoc est: Rerum Memorabilium Inter Invictissimum Et Gloriosissimum Ferdinandum II. Romanorum Imperatorem: a Vernalibus, usque ad praesentes Autumnales Moeno-Francfurtenses Nundinas 1623. continuatus</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lundorp, Michael Caspar , 1580-1629</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lanius, Joannes (BeiträgerIn)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Kempfer, Erasmus</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1623</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1623</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">124 S., [2] gef. Bl 2 Ill. (Kupferst.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Interprete Michaele Casp. Lundorpio Historiographo</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">12:189299N</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)001411578</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>18</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Mercurius Gallo-Belgicus: Hoc est: Rerum In Gallia Et Belgio, Hispania Quoque Et Anglia: Potissimum autem Germania &amp; Hungaria, totoque terrarum orbe gestarum Historicae Narrationis a Nundinis autumnalibus usque ad praesentes vernales 1623. Continuatio</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lundorp, Michael Caspar , 1580-1629</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Janus, Elector Saxoniae (WidmungsempfängerIn)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Dominicus, Elector Saxoniae (WidmungsempfängerIn)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Jan-Jacobus, Elector Saxoniae (WidmungsempfängerIn)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lanius, Joannes (BeiträgerIn)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Mockel, Wendel</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Junghen, Wendelin?</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1623</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1623</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">159 S., [2] gef. Bl 2 Ill. (Kupferst.) 8°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Autore Michaele Casparo Lundorpio, Historiographo</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Vorlageform des Erscheinungsvermerks: In Archiepiscopatu Mogunt. Ursellis apud Wendelinum Mockelium edita Anno 1623.</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10916523-9</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">12:187079E</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)001406264</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>19</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio: Jacobi Franci Historische Beschreibung aller denckwürdigen Historien/ so sich hin und wider in Europa/ in hoch und nider Teutschland/ auch in Franckreich/ Schott- unnd Engeland/ Hispanien/ Hungarn/ Polen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. hierzwischen nechstverschiener Franckfurter Fastenmesß biß auff Herbstmesß dieses 1623. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Fastenmessz Fastenmesse Herbstmessz Herbstmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1623</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1623</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">96 S., [3] gef. Bl Tbl. r&amp;s, 2 Ill. (Kupferst.), 1 Kt. (Kupferst.), Ill. (Holzschn.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften und eygener Erfahrung/ beneben etlich Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer. Francum, verlegt unnd continuirt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der HAB Wolfenbüttel: Ge 482 (35)</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat. - Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - M4, [3]. - Fehlerhafte Paginierung: S. 67 - 82 [i.e. 65 - 80], 68 [i.e. 86]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 426</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503365-2</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">23:301650H</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)000167517</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>20</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio: Jacobi Franci Historische Beschreibung aller denckwürdigen Historien/ so sich hin und wider in Europa/ in hoch und nider Teutschland/ auch in Franckreich/ Schott- unnd Engeland/ Hispanien/ Hungarn/ Polen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. hierzwischen nechstverschiener Franckfurter Herbstmesß biß auff Fastenmesß dieses 1622. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">gedenkwürdigen wieder Hoch- Hochdeutschland Oberdeutschland Niederdeutschland Deutschland Frankreich Schottland England Spanien Ungarn Walachei Moldau Türkei nächstverschienener Frankfurter Herbstmeß Herbstmesse bis auf Fastenmeß Fastenmesse verlaufen aus überschickten Schriften eigener etlichen Kupferstücken verlegt kontinuiert</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1622</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1622</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">112 S. Tbl. r&amp;s 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften und eygener Erfahrung/ beneben etlich Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer, Francum, verlegt unnd continuirt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der BSB München: Res Eur. 1038 f</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt. - Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - O4. - In BSB München: Ex. unvollständig, Kupferst. fehlen</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Andere Ausg. (siehe VD17 23:301640B) u.d.T.: Relationis Historicae Semestralis Continuatio : Warhafftige Beschreibung aller Furnemi[n] gedenckwürdigen Historien </dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 409</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10916896-4</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">12:665933C</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)005517397</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>21</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio, Jacobi Franci Historische Beschreibung aller denckwürdigen Historien/ so sich hin und wider in Europa/ in hoch und nider Teutschland/ auch in Franckreich/ Schott- unnd Engelland/ Hispanien/ Hungarn/ Polen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. hierzwischen nechstverschiener Franckfurter Fastenmesß biß auff Herbstmesß dieses 1622. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Fastenmeß Fastenmesse Herbstmeß Herbstmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1622</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1622</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">96 S., [4] gef. Bl. Tbl r&amp;s, 4 Ill. (Kupferst.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften und eygener Erfahrung/ beneben etlich Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer, Francum, verlegt unnd continuirt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der FB Gotha: Hist 8° 154/9 (12) R</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat. - Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - M4, [4]. - Fehlerhafte Paginierung: S. 57 [i.e. 56]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 416</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">39:124394P</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)001102001</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>22</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Continuatio X. Der Zehenjährigen Historischen Relation/ Das ist: Warhafftige Beschreibung aller gedenckwürdigsten Historien/ Handlungen und Geschichten/ so seydhero des nechstverschienenen Leipzigen NewenjahrsMarckt des 1622. biß auff jetzigen OsterMarckt des 1622. Jahres hin und wider in der Welt ... sich ... begeben und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">zehnjährigen wahrhaftige gedenkwürdigsten denkwürdigsten seithero seither Leipziger Neujahrsmarkt Ostermarkt wieder</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Wintermonat, Gregor</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Grosse, Gottfried , 1591-1637</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lamberg, Abraham , 1557-1629</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1622</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1622</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1622</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">[4] Bl., 150 S Tbl. r&amp;s 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dem Liebhaber der Historien zu gefallen ... in offenen Druck gegeben Gregorium Wintermonat</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der HAB Wolfenbüttel: Xb 2860 (4)</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 413</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Vorlageform des Erscheinungsvermerks: Leipzig/ bey Abraham Lamberg/ In verlegung Gotfrid Grossens</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503607-6</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">23:240935F</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)000992690</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>23</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Mercurius Austro-Bohemo-Germanicus: Hoc est: Rerum Memorabilium Inter Invictissimum Et Gloriosissimum Ferdinandum II. Romanorum Imperatorem: ab Autumnalibus, Anni M.DC.XXI. usque ad praesentes Nundinas Pascales Anni presentis M.DC.XXII. ordine Historico contextus. Anni Tertii Pars Prima</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lundorp, Michael Caspar , 1580-1629</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1622</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1622</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">lat</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">14 S., S. 17 - 192 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Interprete Michaele Casparo Lundorpio, Historiographo</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10916522-4</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">12:189308B</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)000867683</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>24</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio: Jacobi Franci Historische Beschreibung aller denckwürdigen Historien/ so sich hin und wider in Europa/ in hoch und nider Teutschland/ auch in Franckreich/ Schott- unnd Engeland/ Hispanien/ Hungarn/ Polen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. hierzwischen nechstverschiener Franckfurter Fastenmesß biß auff Herbstmesß dieses 1621. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Fastenmessz Fastenmesse Herbstmessz Herbstmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1621</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1621</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">108 S., [4] gef. Bl. Tbl. r&amp;s, Ill. (Holzschn.), 2 Ill. (Kupferst.), 2 Kt. (Kupferst.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften und eygener Erfahrung/ beneben etlich Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer, Francum, verlegt und continuirt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der ULB Halle: Nd 342 (4) (7)</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat. - Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - N4, O2, [4]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 403</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503361-0</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://vd17.bibliothek.uni-halle.de/pict/2004/3:655531N/</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">3:655531N</dc:identifier>
+  <dc:relation xmlns:dc="http://purl.org/dc/elements/1.1/">http://vd17.bibliothek.uni-halle.de/pict/2004/3:655531N/</dc:relation>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)005370477</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>25</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Continuatio VI. Der Zehenjährigen Historischen Relation/ Das ist: Warhafftige Beschreibung aller gedenckwürdigsten Historien/ Handlungen und Geschichten/ so seydhero des nechstverschienenen Leipzigen MichaelisMarckt des 1620. biß auff jetzigen Newen JahrsMarck dieses 1621. Jahres/ hin und wieder in der Welt ... zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">zehnjährigen wahrhaftige gedenkwürdigsten denkwürdigsten seithero seither Leipziger Michaelismarkt Neujahrsmarkt</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Wintermonat, Gregor</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Grosse, Gottfried , 1591-1637</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lamberg, Abraham , 1557-1629</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1621</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1621</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1621</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">[4] Bl., 112 S., [20] Bl Tbl. r&amp;s 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dem Liebhaber der Historien ... aus den einkommenden Zeitungen ... verfast/ und in offenen Druck gegeben Durch Gregorium Wintermonat</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Nicht identisch mit VD17 32:665872R (anderer Holzschn. auf dem Titelbl.)</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der FB Gotha: Pol. 8° 3077-3079 (11)</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 393</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503606-1</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">39:164754X</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)001085271</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>26</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio, Jacobi Franci Historische Beschreibung aller denckwürdigen Historien/ so sich hin und wider in Europa/ in hoch und nider Teutschland/ auch in Franckreich/ Schott- unnd Engeland/ Hispanien/ Hungarn/ Polen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. hierzwischen nechstverschiener Franckfurter Herbstmesß biß auff Fastenmesß dieses 1621. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Herbstmessz Herbstmesse Fastenmessz Fastenmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1621</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1621</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">120 S., [1] Bl., [6] gef. Bl Tbl. r&amp;s, 6 Ill. (Kupferst.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften und eygener Erfahrung/ beneben etlich Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer, Francum, verlegt und continuirt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der FB Gotha: Hist 8° 154/9 (3) R</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat. - Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - P4, Q, [6]. - Fehlerhafte Paginierung: S. 4 [i.e. 34], 117 [i.e. 119]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 396</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503360-5</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">39:124356C</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)000292125</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>27</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio: Warhafftige Beschreibung aller Furneme[n] gedenckwürdigen Historien/ so sich hin unnd wider in Europa/ in hoch unnd nider Teutschland/ auch in Franckreich/ Schott- unnd Engeland/ Hispanien/ Hungarn/ Polen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. hierzwischen nechstverschiener Franckfurter Fastenmesß biß auff Herbstmesß dieses 1621. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">wahrhaftige vornehmen gedenkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Fastenmessz Fastenmesse Herbstmessz Herbstmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1621</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1621</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">108 S., [4] gef. Bl Tbl. r&amp;s, 1 Ill. (Kupferst.), 3 Kt. (Kupferst.), Ill. (Holzschn.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften und eygener Erfahrung/ beneben etlich Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer, Francum, verlegt unnd continuirt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der HAB Wolfenbüttel: Ge 482 (29)</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - N4, O2, [4]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 402</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10624254-6</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">23:301617L</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)00016741X</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>28</zs:recordPosition></zs:record><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio: Jacobi Franci Historische Beschreibung aller denckwürdigen Historien/ so sich hin und wider in Europa/ in hoch und nider Teutschland/ auch in Franckreich/ Schott- unnd Engeland/ Hispanien/ Hungarn/ Polen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ [et]c. hierzwischen nechstverschiener Franckfurter Fastenmesß biß auff Herbstmesß dieses 1620. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Fastenmessz Fastenmesse Herbstmessz Herbstmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1620</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1620</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">115 S., [2] gef. Bl Tbl. r&amp;s, 1 Ill. (Kupferst.), 1 Kt. (Kupferst.), Ill. (Holzschn.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften und eygener Erfahrung/ beneben etlich Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer, Francum, verlegt unnd continuirt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Nicht identisch mit VD17 39:124348M (vgl. Titelbl.). - Ausgabe früher auch unter VD17 3:610265M</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der BSB München: 4 Eph.pol. 26-1620</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat. - Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - O4, P2, [2]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 386</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503359-3</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">12:666262F</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">vd17: </dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)005523079</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>29</zs:recordPosition></zs:record><!--<zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Continuatio IV. Der Zehenjährigen Historischen Relation/ Das ist: Gründliche Beschreibung aller gedenckwürdigsten Historien/ Handlungen und Geschicht/ so seithero des nechstverschienenen Leiptziger New Jahrs Marckts/ und etwas zuvorn/ biß uff ietzige Oster Messe dieses 1620. Jahres hin und wider in der Welt ... zugetragen haben</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">zehnjährigen gedenkwürdigsten denkwürdigsten Geschichten Leipziger Neujahrmarkts Ostermesse</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Sommermonat, Georg</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1620</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1620</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">[4] Bl., 112 S. Tbl. r&amp;s 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Dem Liebhaber der Historien zugefallen ... zusammen verfasset/ und in Druck gegeben Durch Georgium Sommermonats</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der BSB München: 4 Eph.pol. 27 n-1619/28,4</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - P4. - Fehlerhafte Paginierung: S. 69 [i.e. 89], 68 [i.e. 98], 100 [i.e. 110]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: 005336740</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10503605-6</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">12:653367H</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)005336740</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>30</zs:recordPosition></zs:record>--><zs:record><zs:recordSchema>dc</zs:recordSchema><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordData><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Relationis Historicae Semestralis Continuatio: Jacobi Franci Historische Beschreibung aller denckwürdigen Historien/ so sich hin und wider in Europa/ in hoch und nider Teutschland/ auch in Franckreich/ Schott- unnd Engeland/ Hispanien/ Hungarn/ Polen/ Siebenbürgen/ Wallachey/ Moldaw/ Türckey/ etc. hierzwischen nechstverschiener Franckfurter Herbstmesß biß auff Fastenmesß dieses 1618. Jahrs verlauffen und zugetragen</dc:title>
+  <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">denkwürdigen Hochdeutschland Niederdeutschland Frankreich England Spanien Ungarn Walachei Moldau Türkei Frankfurter Herbstmessz Herbstmesse Fastenmessz Fastenmesse verlaufen</dc:title>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Lautenbach, Conrad , 1534-1595</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Keller, G. (BeiträgerIn k)</dc:contributor>
+  <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/">Latomus, Sigismundus , -1627</dc:contributor>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:type>
+  <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Meßrelation</dc:type>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1618</dc:date>
+  <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">1618</dc:date>
+  <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">ger</dc:language>
+  <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">print</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">nicht spezifiziert</dc:format><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">96 S., [3] gef. Bl Tbl. r&amp;s, 2 Ill. (Kupferst.), 1 Kt. (Kupferst.) 4°</dc:format>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Auß uberschickten glaubwürdigen Schrifften und eygener Erfahrung/ beneben etlich Kupfferstücken/ Durch Sigismundum Latomum, alias Meurer, Francum, verlegt und continuirt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Schlüsselseiten aus dem Exemplar der HAB Wolfenbüttel: 202.34 Quod. (8)</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Jacobus Francus ist hier Pseud. für Conrad Lautenbach; das Werk wird fälschlich auch Conrad Memmius zugeschrieben, der ebenfalls dieses Pseud. benutzt hat. - Sigismundus Latomus gebraucht die Alias-Namen nur in dem Sinne, daß er die Tradition des Theodor Meurer und des Jacobus Francus fortsetzt</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Signaturformel: A - M4, [3]</dc:description>
+  <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">Bibliogr. Nachweis: Bender 349</dc:description>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10623596-4</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:srw_dc="info:srw/schema/1/dc-schema">23:248648D</dc:identifier>
+  <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">ppn:
+				(DE-627-4)000906018</dc:identifier>
+</oai_dc:dc></zs:recordData><zs:recordPosition>31</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>2.0</zs:version><zs:query>pica.gat=messrelation and pica.jhr=1618-1629 and pica.bib=40004</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>50</zs:maximumRecords><zs:recordXMLEscaping>xml</zs:recordXMLEscaping><zs:recordSchema>dc</zs:recordSchema></zs:echoedSearchRetrieveRequest><zs:resultCountPrecision>exact</zs:resultCountPrecision></zs:searchRetrieveResponse>
